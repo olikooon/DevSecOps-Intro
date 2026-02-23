@@ -1,0 +1,11 @@
+venv/
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd.
+input/
+*.pdf
+.idea/
+output/*.pdf
+*.db
