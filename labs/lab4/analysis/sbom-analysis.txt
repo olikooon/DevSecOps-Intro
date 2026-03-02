@@ -1,0 +1,10 @@
+=== SBOM Component Analysis === 
+ 
+Syft Package Counts: 
+Total Syft packages: 1139 
+Total Trivy packages: 1135 
+ 
+=== License Analysis === 
+ 
+Syft Licenses: 
+Total Syft license entries: 1152 
